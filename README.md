@@ -2,9 +2,7 @@
 
 Thank you for stopping by. My name is Saurabh Saxena.
 
-I'm a developer and 
-
-Here are some ideas to get you started:
+I'm a developer. Have architected and engineered systems in Travel eCommerce, Telecom and BFSI domain.
 
 - **What I'm upto?**
   - I’m currently on sabbatical break since December 2019.
