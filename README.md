@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - **What I'm upto?**
   - I’m currently on sabbatical break since December 2019.
-    - **Why**? Outside the coding passion I'm into rock climbing 🧗‍ and slacklining ![Alt Text](https://tenor.com/bpagx.gif) (you would have seen men/women walking on rope in circus, I'm one of them) and hence decided to go rock climbing and slackline.    
+    - **Why**? Outside the coding passion I'm into rock climbing 🧗‍ and slacklining \(you would have seen men/women walking on rope in circus, I'm one of them) and hence decided to go rock climbing and slackline.    
   - Meanhwile, since I can't keep myself away from habit of coding and architecting, I've been evolving my skills and try to contribute to open-source community as mush as possible. 
 - **My Open Source Contributions**
   - [Confluentinc/kafka-tutorials](https://kafka-tutorials.confluent.io/)
