@@ -31,5 +31,10 @@ I'm a developer. Have architected and engineered systems in Travel eCommerce, Te
   - To architect and program better than yesterday.
   - Golang
   - Kotlin
+- **Favourite Shell**
+  - /bin/zsh
+  - /bin/bash
+- **Platform - Tricky to work on and still possible**
+  - Microsoft Windows 
 
 Apart from tech, one can see me on [Instagram](https://www.instagram.com/saurabh.slacklife/), where I post about my Climb, Slack, moto bike ride and camera drone life!
