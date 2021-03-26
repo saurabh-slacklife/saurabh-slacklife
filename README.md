@@ -27,14 +27,15 @@ I'm a developer. Have architected and engineered systems in Travel eCommerce, Te
   - **[googlecodelabs/orchestrate-with-kubernetes](https://github.com/googlecodelabs/orchestrate-with-kubernetes)**
     - [Pull Requests](https://github.com/googlecodelabs/orchestrate-with-kubernetes/pulls?q=is%3Apr+author%3Asaurabh-slacklife)
     - [Reported Issues](https://github.com/googlecodelabs/orchestrate-with-kubernetes/issues?q=is%3Aissue+author%3Asaurabh-slacklife)
-- 🌱 **Getting my shoes wet**
+- 🌱 **Getting my feet wet**
   - To architect and program better than yesterday.
+  - Apache Beam
   - Golang
   - Kotlin
 - **Favourite Shell**
   - /bin/zsh
   - /bin/bash
-- **Platform - Tricky to work on but still possible**
+- **Platform - Tricky to work-on but still possible**
   - Microsoft Windows 
 
 Apart from tech, one can see me on [Instagram](https://www.instagram.com/saurabh.slacklife/), where I post about my Climb, Slack, moto bike ride and camera drone life!
