@@ -39,3 +39,21 @@ I'm a developer. Have architected and engineered systems in Travel eCommerce, Te
   - Microsoft Windows 
 
 Apart from tech, one can see me on [Instagram](https://www.instagram.com/saurabh.slacklife/), where I post about my Climb, Slack, moto bike ride and camera drone life!
+
+++++
+<p align="center">
+  <a href="https://github.com/saurabh-slacklife?tab=repositories">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh-slacklife&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/saurabh-slacklife?tab=repositories">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=saurabh-slacklife&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
+++++
