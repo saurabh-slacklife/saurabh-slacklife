@@ -58,10 +58,10 @@ Apart from tech, one can see me on [Instagram](https://www.instagram.com/saurabh
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#336](https://github.com/confluentinc/kafka-streams-examples/issues/336) in [confluentinc/kafka-streams-examples](https://github.com/confluentinc/kafka-streams-examples)
-2. 🗣 Commented on [#383](https://github.com/confluentinc/kafka-streams-examples/issues/383) in [confluentinc/kafka-streams-examples](https://github.com/confluentinc/kafka-streams-examples)
-3. 🗣 Commented on [#336](https://github.com/confluentinc/kafka-streams-examples/issues/336) in [confluentinc/kafka-streams-examples](https://github.com/confluentinc/kafka-streams-examples)
-4. 💪 Opened PR [#383](https://github.com/confluentinc/kafka-streams-examples/pull/383) in [confluentinc/kafka-streams-examples](https://github.com/confluentinc/kafka-streams-examples)
-5. 🗣 Commented on [#336](https://github.com/confluentinc/kafka-streams-examples/issues/336) in [confluentinc/kafka-streams-examples](https://github.com/confluentinc/kafka-streams-examples)
+1. 🗣 Commented on [#383](https://github.com/confluentinc/kafka-streams-examples/issues/383) in [confluentinc/kafka-streams-examples](https://github.com/confluentinc/kafka-streams-examples)
+2. 🗣 Commented on [#336](https://github.com/confluentinc/kafka-streams-examples/issues/336) in [confluentinc/kafka-streams-examples](https://github.com/confluentinc/kafka-streams-examples)
+3. 🗣 Commented on [#383](https://github.com/confluentinc/kafka-streams-examples/issues/383) in [confluentinc/kafka-streams-examples](https://github.com/confluentinc/kafka-streams-examples)
+4. 🗣 Commented on [#336](https://github.com/confluentinc/kafka-streams-examples/issues/336) in [confluentinc/kafka-streams-examples](https://github.com/confluentinc/kafka-streams-examples)
+5. 💪 Opened PR [#383](https://github.com/confluentinc/kafka-streams-examples/pull/383) in [confluentinc/kafka-streams-examples](https://github.com/confluentinc/kafka-streams-examples)
 <!--END_SECTION:activity-->
 
