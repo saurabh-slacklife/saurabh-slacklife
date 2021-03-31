@@ -30,8 +30,8 @@ I'm a developer. Have architected and engineered systems in Travel eCommerce, Te
 - 🌱 **Getting my feet wet**
   - To architect and program better than yesterday.
   - Apache Beam
-  - Golang
   - Kotlin
+  - German
 - **Favourite Shell**
   - /bin/zsh
   - /bin/bash
