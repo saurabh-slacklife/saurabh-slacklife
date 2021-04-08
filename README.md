@@ -29,8 +29,8 @@ I'm a developer. Have architected and engineered systems in Travel eCommerce, Te
     - [Reported Issues](https://github.com/googlecodelabs/orchestrate-with-kubernetes/issues?q=is%3Aissue+author%3Asaurabh-slacklife)
 - 🌱 **Getting my feet wet**
   - To architect and program better than yesterday.
+  - Golang
   - Apache Beam
-  - Kotlin
   - German
 - **Favourite Shell**
   - /bin/zsh
