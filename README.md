@@ -7,18 +7,10 @@ I'm a developer. Have architected and engineered systems in Travel eCommerce, Te
 - 🐩 **What I'm upto?**
   - I’m currently on sabbatical break since December 2019.
     - **Why**? Outside the coding passion I'm into rock climbing 🧗‍ and slacklining \(you would have seen men/women walking on rope in circus, I'm one of them) and hence decided to go rock climbing and slackline.    
-  - Meanhwile, since I can't keep myself away from habbit of coding and architecting, I've been evolving my skills and try to contribute to open-source community as mush as possible. 
+  - Meanhwile, since I can't keep myself away from habbit of coding and architecting, I've been evolving my skills through multiple different ways. 
 - 🌱 **Getting my feet wet**
-  - To architect and program better than yesterday.
-  - Golang
-  - Apache Beam
-  - German
+  - Playing flute
 - 🤔 I’m looking for help with German language, container security and whole lot of things!
-- ✨ **Favourite Shell**
-  - /bin/zsh
-  - /bin/bash
-- 😐 **Platform - Tricky to work-on but still possible**
-  - Microsoft Windows 
 
 Apart from tech, one can see me on [Instagram](https://www.instagram.com/saurabh.slacklife/), where I post about my Climb, Slack, moto bike ride and camera drone life!
 
